@@ -5,13 +5,13 @@ const Footer = () => {
 
   return (
     <footer>
-      <container>
+      <Container>
         <Row>
           <Col className='text-center py-3'>
             <p>Proshop &copy; {currentYear}</p>
           </Col>
         </Row>
-      </container>
+      </Container>
     </footer>
   )
 }
