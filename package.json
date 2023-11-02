@@ -1,0 +1,16 @@
+{
+  "name": "proshop-hans",
+  "version": "1.0.0",
+  "description": "eCommerce",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hans van der Rest",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
