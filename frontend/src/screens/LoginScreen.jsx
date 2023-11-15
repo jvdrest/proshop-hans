@@ -44,7 +44,6 @@ const LoginScreen = () => {
   return (
     <FormContainer>
       <h1>Sign In</h1>
-      console.log(search, sp, redirect);
 
       <Form onSubmit={submitHandler}>
         <Form.Group controlId='email' className='my-3'>
